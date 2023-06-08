@@ -1,0 +1,37 @@
+_repo: Cape-Cod-b-its-natural-and-cultural-history-a-guide-to-Cape-Cod-National-Seashore-Massachuset__70885
+_version: 0.0.1
+alternative_title: 'Cape Cod :  official National Park handbook'
+creator:
+  authors:
+  - agent_name: Finch, Robert
+    birthdate: 1943
+    gutenberg_agent_id: '55974'
+    url: http://www.gutenberg.org/2009/agents/55974
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Finch_(nature_writer)
+  - agent_name: United States. National Park Service. Division of Publications
+    alias: United States. National Park Service. Office of Publications
+    gutenberg_agent_id: '48149'
+    url: http://www.gutenberg.org/2009/agents/48149
+description: ''
+gutenberg_issued: '2023-05-30'
+identifiers:
+  gutenberg: '70885'
+  lccn: '92040414'
+language: en
+pgterms:marc905: 20220525112454finch
+pgterms:marc906: '1993'
+pgterms:marc907: US
+production_note: Steve Mattern, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bNational Park Service, $c1993.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Official National Park handbook 148
+subjects:
+- !lcsh 'Cape Cod National Seashore (Mass.) -- Guidebooks'
+- !lcc 'F001'
+- GITenberg
+title: 'Cape Cod : $b its natural and cultural history : a guide to Cape Cod National
+  Seashore, Massachusetts'
+url: http://www.gutenberg.org/ebooks/70885

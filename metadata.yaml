@@ -1,6 +1,9 @@
 _repo: Cape-Cod-b-its-natural-and-cultural-history-a-guide-to-Cape-Cod-National-Seashore-Massachuset__70885
 _version: 0.1.0
 alternative_title: 'Cape Cod :  official National Park handbook'
+covers:
+- cover_type: archival
+  image_path: 70885-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Finch, Robert
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '48149'
     url: http://www.gutenberg.org/2009/agents/48149
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70885#Cape-Cod-b-its-natural-and-cultural-history-a-guide-to-Cape-Cod-National-Seashore-Massachuset_
 gutenberg_issued: '2023-05-30'
 identifiers:
   gutenberg: '70885'
